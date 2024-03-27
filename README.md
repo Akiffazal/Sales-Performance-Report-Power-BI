@@ -27,4 +27,4 @@ The dataset used for this project contains sales data with information such as o
 
 ## Credits
 
-This project was created by Akif Fazal as part of Atomcamp. Special thanks to @Maimoona Khilji for their contributions.
+This project was created by Akif Fazal as part of Atomcamp Bootcamp. Special thanks to @Maimoona Khilji for their contributions.
